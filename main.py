@@ -1,6 +1,6 @@
 #@Autor: Gustavo Armitano
 #App para el corralón Armitano
-#Permite seleccionar un archivo pdf o xlsx, ordenarlo, limpiarlo y setearlo de acuerdo a un formato preestablecido
+#Permite seleccionar un archivo xlsx, ordenarlo, limpiarlo y setearlo de acuerdo a un formato preestablecido
 # y luego crear un xlsx con el resultado final.
 # Los archivos son listas de precios. 
 
